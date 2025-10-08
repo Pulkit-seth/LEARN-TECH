@@ -45,7 +45,7 @@ This repository reflects my *commitment to daily progress* and *continuous learn
 
 ## 🧭 Connect with Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
+- 💼 [LinkedIn](www.linkedin.com/in/pulkit-seth-657b73333)  
 - 🐙 [GitHub](https://github.com/Pulkit-seth)  
 - ✉️ *Reach out for collaboration or feedback!*
 
