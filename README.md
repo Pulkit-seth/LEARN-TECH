@@ -6,7 +6,7 @@ This repository reflects my *commitment to daily progress* and *continuous learn
 
 ---
 
-## 📂 Folder Structure
+## 📂Folder Structure
 
 📦 LEARN-TECH
 ├── 🧩 DSA/ # Data Structures & Algorithms problems & solutions
