@@ -32,7 +32,8 @@ int main()
     cout << "The union of both the vectors is ";
     for (auto it : res)
     {
-        cout << it << " ";
+        cout << it << "  ";
     }
     return 0;
+
 }
