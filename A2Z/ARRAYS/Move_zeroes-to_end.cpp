@@ -27,17 +27,18 @@ void moveZeroes(vector<int>& v)
 int main()
 {
     vector<int> v = {1, 0, 3, 0, 9, 0, 7, 0, 9};
-    cout << "Before Rotate" << endl;
+    cout << "Before Rotation" << endl;
     for (auto it : v)
     {
         cout << it << " ";
     }
     cout << endl;
     moveZeroes(v);
-    cout << "After Rotate" << endl;
+    cout << "After Rotation" << endl;
     for (auto it : v)
     {
         cout << it << " ";
     }
     return 0;
+
 }
