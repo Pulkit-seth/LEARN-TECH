@@ -14,13 +14,6 @@ print("The sum of the two numbers is:", sum)
 print("The multiplication is:", mul)
 print("The division is:", div)
 
-print("Logical Operations:")
-x = True
-y = False
-print("The logical AND of x and y is:", x and y)
-print("The logical OR of x and y is:", x or y)
-print("The logical NOT of x is:", not x)
-print("The logical NOT of y is:", not y)
 
 print("Relational Operations:")
 print("Is a equal to b?", a == b)
@@ -29,6 +22,14 @@ print("Is a greater than b?", a > b)
 print("Is a less than b?", a < b)
 print("Is a greater than or equal to b?", a >= b)
 print("Is a less than or equal to b?", a <= b)
+
+print("Logical Operations:")
+x = True
+y = False
+print("The logical AND of x and y is:", x and y)
+print("The logical OR of x and y is:", x or y)
+print("The logical NOT of x is:", not x)
+print("The logical NOT of y is:", not y)
 
 print("Bitwise Operations:")
 print("The bitwise AND of a and b is:", int(a) & int(b))
@@ -67,4 +68,5 @@ print("Is b not identical to c?", b is not c)
 print("Is a identical to c?", a == c)
 print("Is b identical to c?", b == c)
 print("Is a not identical to c?", a != c)
+
 print("Is b not identical to c?", b != c)
