@@ -58,4 +58,4 @@ This project is licensed under the **MIT License** — see the [LICENSE](./LICEN
 ---
 
 > ⭐ **If you find this repo inspiring, don’t forget to star it!**  
-> Let’s grow and build — one day at a time 🚀
+> Let’s grow and build — one day at a time! 🚀
