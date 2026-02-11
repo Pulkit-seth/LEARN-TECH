@@ -3,7 +3,7 @@ insert into employee01 values(102, 'Nisha', 55000, 500, 'Engineer', 7);
 insert into employee01 values(103, 'Neha', 60000, 350, 'Manager', 10);
 insert into employee01 values(104, 'Ashish', 50000, 1000, 'Supervisor', 8);
 insert into employee01 values(105, 'Nishant', 70000, 2000, 'Assistance Manager', 9);
-insert into employee01 values(106, 'Niikhil', 70000, 200, 'Clerk', 10);
+insert into employee01 values(106, 'Niikhil', 70000, 200, 'Clerk', 11);
 select *from employee01;
 
 
