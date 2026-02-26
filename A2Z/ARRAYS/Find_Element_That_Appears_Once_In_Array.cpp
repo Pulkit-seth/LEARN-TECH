@@ -17,3 +17,4 @@ int main()
     cout << "The element that appears only once in the array is " << uniqueElement;
     return 0;
 }
+
