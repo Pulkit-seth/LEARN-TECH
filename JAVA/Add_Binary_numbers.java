@@ -9,8 +9,8 @@ public class Add_Binary_nums {
         String binary2 = sc.nextLine();
         int decimal1 = Integer.parseInt(binary1, 2);
         int decimal2 = Integer.parseInt(binary2, 2);
-        int sum = decimal1 + decimal2;
-        String result = Integer.toBinaryString(sum);
+        int totalsum = decimal1 + decimal2;
+        String result = Integer.toBinaryString(totalsum);
         System.out.println("Sum of binary numbers: " + result);
         sc.close();
     }
