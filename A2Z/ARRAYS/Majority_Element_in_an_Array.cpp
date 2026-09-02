@@ -21,7 +21,7 @@ int majorityElement(vector<int> &arr)
 
 int main()
 {
-    vector<int> arr = {2, 2, 1, 1, 1, 2, 2};
+    vector<int> arr = {2, 2, 1, 1, 1, 2, 2, 3};
     cout << majorityElement(arr);
     return 0;
 }
