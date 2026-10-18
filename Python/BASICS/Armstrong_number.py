@@ -12,6 +12,6 @@ while temp > 0:
     temp //= 10
 
 if sum_of_powers == num:
-    print(num, "is an Armstrong number")
+    print(num, "is a Armstrong number")
 else:
-    print(num, "is not an Armstrong number")
+    print(num, "is not a Armstrong number")
