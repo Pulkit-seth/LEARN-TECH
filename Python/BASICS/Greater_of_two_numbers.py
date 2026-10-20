@@ -5,5 +5,5 @@ if a>b:
 elif a<b:
     print(f"{b} is greater than {a}")
 else:
-    print("Both are equal numbers")
+    print("Both are equal nums")
 
