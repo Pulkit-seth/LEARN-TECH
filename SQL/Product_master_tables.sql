@@ -4,7 +4,7 @@
 
 INSERT INTO product_master VALUES ('P03453', 'Monitors', 6, 10, 12000, 11200);
 
- INSERT INTO product_master VALUES ('P06734', 'Mouse', 5, 20, 1050, 500); 
+ INSERT INTO product_master VALUES ('P06734', 'Mouse', 5, 20, 1050, 520); 
 
 INSERT INTO product_master VALUES ('P07865', '1.22 floppies', 5, 100, 525, 500);
 
