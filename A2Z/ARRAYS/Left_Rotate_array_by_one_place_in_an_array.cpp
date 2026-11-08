@@ -11,6 +11,7 @@ void leftRotate(vector<int> &v)
         v[i - 1] = v[i];
     }
     v[n - 1] = temp;
+    
 }
 
 int main()
@@ -20,6 +21,7 @@ int main()
     for (auto it : v)
     {
         cout << it << " ";
+        
     }
     cout << endl;
     leftRotate(v);
